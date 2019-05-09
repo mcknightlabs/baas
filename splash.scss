@@ -54,7 +54,14 @@ nav {
 	}
 }
 
-
+// social icons
+.twitter-icon {
+	content: url(twitter-icon.svg);
+	display: inline-block;
+	height: 20px;
+	width: 20px; 
+	vertical-align: bottom;
+}
 
 // checkmarks
 .checkmarks {
